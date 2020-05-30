@@ -18,11 +18,12 @@ The chatbot should be able to the following basic functionalities
 Example flows for these functionalities are described in detail in the Flows section.
 
 # Installation
-Recommended: Use a fresh virtual environment
 
-```
-pip install -r requirements.txt
-```
+`python 3.6.8` is recommended for use with Rasa!
+
+We highly recommend that you use a fresh virtual environment with python 3.6.8
+
+Rasa 1.8 is the only requirement for this project. Please follow the Rasa installation instructions listed at [https://rasa.com/docs/rasa/user-guide/installation/](https://rasa.com/docs/rasa/user-guide/installation/)
 
 # Instructions
 
