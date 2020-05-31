@@ -9,7 +9,7 @@ We hope that you have fun learning a new framework and building the chatbot!
 
 # Objective - 
 To build a simple chatbot for a hotel.
-The chatbot should be able to the following basic functionalities
+The chatbot should be able to respond to and handle the following basic functionalities
 - Book room
 - Request Room Cleaning
 - Handle FAQs
