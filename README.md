@@ -25,6 +25,8 @@ We highly recommend that you use a fresh virtual environment with python 3.6.8
 
 Rasa 1.8 is the only requirement for this project. Please follow the Rasa installation instructions listed at [https://rasa.com/docs/rasa/user-guide/installation/](https://rasa.com/docs/rasa/user-guide/installation/)
 
+Note) If you are facing trouble installing the rasa dependencies on your local computer you can make use of the Rasa Docker Environment. [https://rasa.com/docs/rasa/user-guide/docker/building-in-docker/](https://rasa.com/docs/rasa/user-guide/docker/building-in-docker/)
+
 # Instructions
 
 We suggest that you use the [Rasa framework](https://rasa.com/) to build this bot. Rasa is an open-source bot-building platform that will enable you to easily implement the functionalities required for this project.
@@ -33,6 +35,11 @@ You can check out this simple [Rasa tutorial](https://rasa.com/docs/rasa/user-gu
 
 We will also recommend that you go through episodes 1, 2, 3, 5, 6 of the [Rasa Masterclass](https://www.youtube.com/watch?v=rlAQWbhwqLA&list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc) to familiarize yourself with how to use the different aspects of Rasa.
 
+Once you have an understanding of the framework you can start designing your chatbot! In this repo we have added some Rasa boilerplate files. You can add your designed stories and intents and commit them in this repo. 
+
+You can use the rasa framework to train a chatbot on your stories and use their interactive tool to chat with your chatbot. This is highlighted in the Masterclass videos.
+
+Once you are finished you can let us know and we will test how well your chatbot is able to respond to the flows given below. You will be graded based on the number of correctly handled conversations.
 
 # Flows
 
