@@ -148,6 +148,8 @@ User: I want to book a room.
 
 Bot: How many rooms would you like to book?
 
+User: What are your check-in timings?
+
 Bot: Check-in time starts at 4 PM. Minimum check-in age is 21. Please contact the reception for early check-in requests.
 
 Bot: How many rooms would you like to book?
